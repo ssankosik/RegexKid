@@ -1,0 +1,16 @@
+PODS:
+  - RegexKid (0.1.0)
+
+DEPENDENCIES:
+  - RegexKid (from `../`)
+
+EXTERNAL SOURCES:
+  RegexKid:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RegexKid: 758878592979083e97f1b8e2f0c302f2743b1376
+
+PODFILE CHECKSUM: 2bbb673fe49384fb9fc9c4548ea3ed760ce5e467
+
+COCOAPODS: 1.12.1
